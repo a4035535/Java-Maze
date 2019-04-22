@@ -9,6 +9,9 @@ import java.awt.GridLayout;
 import javax.swing.JLabel;
 import javax.swing.ImageIcon;
 
+
+//this is just a windows to show the code run not in console.
+//never care about it.
 public class View {
 
 	private JFrame frmMize;
